@@ -1,0 +1,30 @@
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\bin\Debug\net6.0\69.exe
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\bin\Debug\net6.0\69.deps.json
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\bin\Debug\net6.0\69.runtimeconfig.json
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\bin\Debug\net6.0\69.dll
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\bin\Debug\net6.0\69.pdb
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\obj\Debug\net6.0\69.csproj.AssemblyReference.cache
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\obj\Debug\net6.0\69.GeneratedMSBuildEditorConfig.editorconfig
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\obj\Debug\net6.0\69.AssemblyInfoInputs.cache
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\obj\Debug\net6.0\69.AssemblyInfo.cs
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\obj\Debug\net6.0\69.csproj.CoreCompileInputs.cache
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\obj\Debug\net6.0\69.dll
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\obj\Debug\net6.0\refint\69.dll
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\obj\Debug\net6.0\69.pdb
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\obj\Debug\net6.0\69.genruntimeconfig.cache
+G:\ЛЕКЦИИ и ДОМАШКИ\Ceminar 8\papka29_08_22\69\obj\Debug\net6.0\ref\69.dll
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\bin\Debug\net6.0\69.exe
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\bin\Debug\net6.0\69.deps.json
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\bin\Debug\net6.0\69.runtimeconfig.json
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\bin\Debug\net6.0\69.dll
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\bin\Debug\net6.0\69.pdb
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\obj\Debug\net6.0\69.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\obj\Debug\net6.0\69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\obj\Debug\net6.0\69.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\obj\Debug\net6.0\69.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\obj\Debug\net6.0\69.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\obj\Debug\net6.0\69.dll
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\obj\Debug\net6.0\refint\69.dll
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\obj\Debug\net6.0\69.pdb
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\obj\Debug\net6.0\69.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\ItogiCeminar\ItogiZadacha\69\obj\Debug\net6.0\ref\69.dll
